@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.stream.*;
 
 /*
-Claude Sonnet 4 Ported from https://github.com/marketdesignresearch/DL-ICA/blob/master/source/wdp.py
+Claude Sonnet 4 Ported from https://github.com/marketdesignresearch/DL-ICA/blob/master/source/nn_mip.py
 
 Claude Prompt: "Port the following code to Java using the CPLEX library for MIP processing and the Tensorflow-Keras library for neural network processing.  Make the code as short as possible while retaining the original functionality."
 
