@@ -30,6 +30,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Logger;
 
+
+/*
+
+Claude Sonnet 4 Ported from https://github.com/marketdesignresearch/DL-ICA/blob/master/source/nn.py
+
+*/
+
 /**
  * FILE DESCRIPTION:
  *

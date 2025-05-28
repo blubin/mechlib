@@ -2,6 +2,13 @@ import org.nd4j.linalg.api.ndarray.INDArray;
 import org.nd4j.linalg.dataset.api.preprocessor.NormalizerMinMaxScaler;
 import org.nd4j.linalg.factory.Nd4j;
 
+/*
+
+Claude Sonnet 4 Generated example case for https://github.com/marketdesignresearch/DL-ICA/blob/master/source/nn.py
+
+*/
+
+
 public class ExampleNN {
     
     public static void main(String[] args) {

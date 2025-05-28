@@ -4,12 +4,11 @@ import java.util.*;
 import java.util.logging.Logger;
 import java.util.logging.Level;
 
-
 /*
 
 Claude Sonnet 4 Ported from https://github.com/marketdesignresearch/DL-ICA/blob/master/source/wdp.py
 
-Claud's Notes:
+Claude's Notes:
 
 Key Differences from Python Version:
 
